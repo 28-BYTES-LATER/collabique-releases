@@ -23,4 +23,4 @@ update both channels; subsequent RC releases update only the RC channel.
 
 Each release includes a signed macOS ARM64 ZIP, a SHA-256 checksum and a release
 manifest. Stable versions use `vX.Y.Z`; candidates use `vX.Y.Z-rc.N`.
-No release has been published yet. The source repository remains private.
+The first public candidate is [v0.1.0-rc.1](https://github.com/28-BYTES-LATER/collabique-releases/releases/tag/v0.1.0-rc.1). The source repository remains private.
